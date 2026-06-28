@@ -27,8 +27,8 @@
 
 ## 📄 Documentation
 
-- 📘 [Behind the Project](Behind%20the%20Project%20(Trader%27s%20Journal).pdf)
-- 📗 [Quick Start Guide](Quick%20Start%20Guide%20(Trader%27s%20Journal).pdf)
+- 📘 [Behind the Project](https://annamalkusz.github.io/traders-journal/Behind-the-Project.pdf)
+- 📗 [Quick Start Guide](https://annamalkusz.github.io/traders-journal/Quick-Start-Guide.pdf)
 
 ---
 
