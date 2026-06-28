@@ -8,7 +8,7 @@
 
 ## 🚀 Live Demo
 
-👉 **[Explore Demo Application](TUTAJ_WKLEISZ_LINK_DO_GITHUB_PAGES)**
+👉 **[Explore Demo Application](https://annamalkusz.github.io/traders-journal/)**
 
 ---
 
